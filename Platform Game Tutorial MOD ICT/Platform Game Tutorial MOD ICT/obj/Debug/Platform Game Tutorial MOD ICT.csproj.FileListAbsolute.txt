@@ -1,0 +1,10 @@
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\bin\Debug\Platform Game Tutorial MOD ICT.exe.config
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\bin\Debug\Platform Game Tutorial MOD ICT.exe
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\bin\Debug\Platform Game Tutorial MOD ICT.pdb
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform Game Tutorial MOD ICT.csproj.AssemblyReference.cache
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform_Game_Tutorial_MOD_ICT.Form1.resources
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform_Game_Tutorial_MOD_ICT.Properties.Resources.resources
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform Game Tutorial MOD ICT.csproj.GenerateResource.cache
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform Game Tutorial MOD ICT.csproj.CoreCompileInputs.cache
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform Game Tutorial MOD ICT.exe
+C:\Users\Pasdaran\source\repos\Platform Game Tutorial MOD ICT\Platform Game Tutorial MOD ICT\obj\Debug\Platform Game Tutorial MOD ICT.pdb
